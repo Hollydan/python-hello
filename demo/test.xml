@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<bookstore>
+    <book category='php'>
+        <title>PHP</title>
+        <author>php</author>
+        <price>77</price>
+    </book>
+    <book category='python'>
+        <title>PYTHON</title>
+        <author>python</author>
+        <price>56</price>
+    </book>
+    <book category='html'>
+        <title>HTML</title>
+        <author>html</author>
+        <price>23</price>
+    </book>
+</bookstore>
+
